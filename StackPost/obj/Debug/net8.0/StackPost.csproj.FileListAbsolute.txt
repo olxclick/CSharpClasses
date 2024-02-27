@@ -1,0 +1,14 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\bin\Debug\net8.0\StackPost.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\bin\Debug\net8.0\StackPost.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\bin\Debug\net8.0\StackPost.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\bin\Debug\net8.0\StackPost.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\bin\Debug\net8.0\StackPost.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\refint\StackPost.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\StackPost.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\StackPost\obj\Debug\net8.0\ref\StackPost.dll
