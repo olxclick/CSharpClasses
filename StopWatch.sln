@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPost", "StackPost\StackPost.csproj", "{4469C72A-14D2-4906-8232-B2C4798F8D07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPopStack", "PushPopStack\PushPopStack.csproj", "{BB66EF28-6BF1-4B98-94A2-F1D2D55C65D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4469C72A-14D2-4906-8232-B2C4798F8D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4469C72A-14D2-4906-8232-B2C4798F8D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4469C72A-14D2-4906-8232-B2C4798F8D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB66EF28-6BF1-4B98-94A2-F1D2D55C65D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB66EF28-6BF1-4B98-94A2-F1D2D55C65D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB66EF28-6BF1-4B98-94A2-F1D2D55C65D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB66EF28-6BF1-4B98-94A2-F1D2D55C65D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

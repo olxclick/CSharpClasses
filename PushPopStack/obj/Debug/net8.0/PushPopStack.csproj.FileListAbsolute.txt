@@ -1,0 +1,15 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\bin\Debug\net8.0\PushPopStack.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\bin\Debug\net8.0\PushPopStack.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\bin\Debug\net8.0\PushPopStack.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\bin\Debug\net8.0\PushPopStack.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\bin\Debug\net8.0\PushPopStack.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.sourcelink.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\refint\PushPopStack.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\PushPopStack.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpClasses\PushPopStack\obj\Debug\net8.0\ref\PushPopStack.dll

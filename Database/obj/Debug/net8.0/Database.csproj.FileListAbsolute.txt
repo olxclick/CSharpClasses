@@ -1,0 +1,15 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\bin\Debug\net8.0\Database.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\bin\Debug\net8.0\Database.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.sourcelink.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpOOP\Database\obj\Debug\net8.0\ref\Database.dll

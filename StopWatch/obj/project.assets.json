@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StopWatch\\StopWatch.csproj",
+      "projectUniqueName": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StopWatch\\StopWatch.csproj",
       "projectName": "StopWatch",
-      "projectPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StopWatch\\StopWatch.csproj",
+      "projectPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StopWatch\\StopWatch.csproj",
       "packagesPath": "C:\\Users\\jpedrola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StopWatch\\obj\\",
+      "outputPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StopWatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jpedrola\\AppData\\Roaming\\NuGet\\NuGet.Config"

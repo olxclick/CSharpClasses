@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StackPost\\StackPost.csproj": {}
+    "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StackPost\\StackPost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StackPost\\StackPost.csproj": {
+    "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StackPost\\StackPost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StackPost\\StackPost.csproj",
+        "projectUniqueName": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StackPost\\StackPost.csproj",
         "projectName": "StackPost",
-        "projectPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StackPost\\StackPost.csproj",
+        "projectPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StackPost\\StackPost.csproj",
         "packagesPath": "C:\\Users\\jpedrola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpClasses\\StackPost\\obj\\",
+        "outputPath": "C:\\Users\\jpedrola\\OneDrive - NTT DATA EMEAL\\Desktop\\CSharpOOP\\StackPost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpedrola\\AppData\\Roaming\\NuGet\\NuGet.Config"
