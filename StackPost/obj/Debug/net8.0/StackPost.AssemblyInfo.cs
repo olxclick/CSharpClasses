@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackPost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+551008bcc75afb412442f64110ebe2614cd22bec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+279b684fe5e46c1e1688af4bb412cbefce72ad7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackPost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackPost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

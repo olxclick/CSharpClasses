@@ -29,7 +29,6 @@ namespace NotificationSystem
 			{
 				System.Console.WriteLine("Some error was found: " + ex.Message);
 			}
-			
 		}
 	}
 }
